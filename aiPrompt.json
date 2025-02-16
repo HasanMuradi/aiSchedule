@@ -1,0 +1,326 @@
+[
+  {
+    "input": "ماذا أدرس اليوم؟",
+    "output": "📝 **خطة الدراسة:**\n1️⃣ مراجعة الفصل 6 لأن لديك اختبار غدًا.\n2️⃣ إنهاء واجب الكيمياء (موعد التسليم اليوم).\n3️⃣ مراجعة محاضرة الأسبوع الماضي للاستعداد للنهائي."
+  },
+  {
+    "input": "كيف أنظم وقتي؟",
+    "output": "⏳ **نظام يومي مقترح:**\n- 🏃‍♂️ صباحًا: حل التمارين الصعبة.\n- 📚 ظهرًا: مراجعة نظرية.\n- 🌙 مساءً: حل اختبارات سابقة."
+  },
+  {
+    "input": "Do I have any assignments due today?",
+    "output": "📌 Yes! You have a chemistry assignment due today at 8:05 PM. Make sure to complete it before the deadline."
+  },
+  {
+    "input": "هل لدي أي مهام يجب تسليمها اليوم؟",
+    "output": "📌 نعم! لديك واجب في مادة الكيمياء موعد تسليمه اليوم الساعة 8:05 مساءً. تأكد من إنهائه قبل الموعد النهائي."
+  },
+  {
+    "input": "What is my study plan for the week?",
+    "output": "📆 **Weekly Study Plan:**\n- Monday: Revise Chemistry (Quiz on Wednesday)\n- Tuesday: Work on ITCS113 assignment\n- Wednesday: Quiz preparation\n- Thursday: Review lecture notes\n- Friday: Mock exam practice"
+  },
+  {
+    "input": "ما هي خطتي الدراسية لهذا الأسبوع؟",
+    "output": "📆 **خطة الدراسة الأسبوعية:**\n- الإثنين: مراجعة الكيمياء (اختبار يوم الأربعاء)\n- الثلاثاء: العمل على واجب ITCS113\n- الأربعاء: تحضير للاختبار\n- الخميس: مراجعة محاضرات الأسبوع\n- الجمعة: حل اختبارات سابقة"
+  },
+  {
+    "input": "I have a quiz in two days, what should I study?",
+    "output": "🎯 **Priority Study Task:**\n- Revise chapters related to the quiz.\n- Solve past quizzes.\n- Summarize key points and formulas."
+  },
+  {
+    "input": "لدي اختبار بعد يومين، ماذا أدرس؟",
+    "output": "🎯 **أهم الأولويات:**\n- مراجعة الفصول المتعلقة بالاختبار.\n- حل اختبارات سابقة.\n- تلخيص النقاط المهمة والقوانين الأساسية."
+  },
+  {
+    "input": "What should I do first: my chemistry homework or prepare for the quiz?",
+    "output": "📌 **Priority Order:**\n1️⃣ Chemistry homework (due today).\n2️⃣ Quiz preparation (due in 2 days).\n💡 Finish your homework first, then spend 1 hour reviewing quiz topics."
+  },
+  {
+    "input": "هل أنهي واجب الكيمياء أولًا أم أستعد للاختبار؟",
+    "output": "📌 **الأولوية:**\n1️⃣ إنهاء واجب الكيمياء (الموعد النهائي اليوم).\n2️⃣ مراجعة الاختبار (بعد يومين).\n💡 أكمل الواجب أولًا ثم خصص ساعة لمراجعة الاختبار."
+  },
+  {
+    "input": "I have free time this evening, what should I study?",
+    "output": "🌙 **Evening Study Plan:**\n- Review today's lecture notes.\n- Start an early revision for upcoming exams.\n- Work on long-term projects if deadlines allow."
+  },
+  {
+    "input": "لدي وقت فراغ هذا المساء، ماذا أدرس؟",
+    "output": "🌙 **خطة الدراسة المسائية:**\n- مراجعة ملاحظات محاضرات اليوم.\n- بدء مراجعة مبكرة للاختبارات القادمة.\n- العمل على المشاريع طويلة المدى إن أمكن."
+  },
+  {
+    "input": "How much time should I study each day?",
+    "output": "⏳ **Study Time Recommendation:**\n- 2-3 hours on weekdays.\n- 4-5 hours on weekends.\n- Take 5-minute breaks every 45 minutes."
+  },
+  {
+    "input": "كم من الوقت يجب أن أدرس كل يوم؟",
+    "output": "⏳ **مدة الدراسة المثلى:**\n- ساعتان إلى 3 ساعات في أيام الأسبوع.\n- 4 إلى 5 ساعات في عطلات نهاية الأسبوع.\n- استراحة 5 دقائق كل 45 دقيقة."
+  },
+  {
+    "input": "What is the best way to revise before an exam?",
+    "output": "📖 **Best Exam Revision Strategy:**\n- Summarize key points.\n- Solve past papers.\n- Use flashcards for memorization.\n- Take breaks to stay focused."
+  },
+  {
+    "input": "ما هي أفضل طريقة للمراجعة قبل الامتحان؟",
+    "output": "📖 **أفضل استراتيجيات المراجعة:**\n- تلخيص أهم النقاط.\n- حل نماذج اختبارات سابقة.\n- استخدام البطاقات التعليمية للحفظ.\n- أخذ فواصل قصيرة للحفاظ على التركيز."
+  },
+  {
+    "input": "How can I avoid procrastination when studying?",
+    "output": "🚀 **Tips to Stay Focused:**\n- Set small, achievable goals.\n- Use the Pomodoro technique (study for 25 min, take 5 min break).\n- Remove distractions.\n- Reward yourself for completing tasks."
+  },
+  {
+    "input": "كيف أتجنب التسويف أثناء الدراسة؟",
+    "output": "🚀 **نصائح لتجنب التسويف:**\n- تحديد أهداف صغيرة وسهلة التنفيذ.\n- استخدام تقنية بومودورو (25 دقيقة دراسة + 5 دقائق راحة).\n- تقليل المشتتات مثل الهاتف والتلفاز.\n- مكافأة نفسك عند إتمام المهام."
+  },
+{
+    "input": "كيف أرتب جدولي الدراسي؟",
+    "output": "📅 **تنظيم الجدول الدراسي:**\n1️⃣ ضع قائمة بجميع المحاضرات والاختبارات والواجبات.\n2️⃣ حدد الأولويات بناءً على المواعيد النهائية.\n3️⃣ خصص وقتًا يوميًا للمراجعة وحل التمارين.\n4️⃣ استخدم تقنيات مثل بومودورو لزيادة التركيز."
+  },
+  {
+    "input": "What is the best way to plan my study schedule?",
+    "output": "📅 **Best Study Schedule:**\n1️⃣ List all your classes, exams, and assignments.\n2️⃣ Prioritize tasks by deadlines.\n3️⃣ Allocate specific time slots for revision and exercises.\n4️⃣ Use techniques like Pomodoro to stay focused."
+  },
+  {
+    "input": "How do I balance my studies and personal life?",
+    "output": "⚖️ **Study-Life Balance:**\n- Set realistic study goals.\n- Take breaks to avoid burnout.\n- Schedule leisure time after productive study sessions.\n- Sleep well and maintain a healthy routine."
+  },
+  {
+    "input": "كيف أوازن بين الدراسة والحياة الشخصية؟",
+    "output": "⚖️ **تحقيق التوازن:**\n- حدد أهدافًا دراسية واقعية.\n- خذ استراحات قصيرة لتجنب الإرهاق.\n- خصص وقتًا للترفيه بعد الجلسات الدراسية.\n- احصل على قسط كافٍ من النوم واتبع نمط حياة صحي."
+  },
+  {
+    "input": "I have a busy schedule, how do I find time to study?",
+    "output": "⏳ **Study in a Busy Schedule:**\n- Utilize short study sessions (30-45 min).\n- Study during commute or breaks.\n- Prioritize the most urgent topics.\n- Avoid distractions to maximize efficiency."
+  },
+  {
+    "input": "جدولي مزدحم، كيف أجد وقتًا للدراسة؟",
+    "output": "⏳ **الدراسة رغم الانشغال:**\n- استغل الجلسات القصيرة (30-45 دقيقة).\n- استخدم وقت التنقل أو الفواصل للدراسة.\n- ركز على المواد الأكثر أهمية.\n- قلل من المشتتات لزيادة الإنتاجية."
+  },
+  {
+    "input": "What should I study first?",
+    "output": "📌 **Study Order:**\n1️⃣ Urgent assignments due today.\n2️⃣ Subjects with upcoming quizzes.\n3️⃣ Reviewing today’s lecture notes.\n4️⃣ Preparing for long-term exams."
+  },
+  {
+    "input": "ما الذي يجب أن أدرسه أولًا؟",
+    "output": "📌 **ترتيب الأولويات:**\n1️⃣ المهام المستحقة اليوم.\n2️⃣ المواد التي تحتوي على اختبارات قريبة.\n3️⃣ مراجعة محاضرات اليوم.\n4️⃣ التحضير للامتحانات النهائية طويلة المدى."
+  },
+  {
+    "input": "How do I schedule my study time efficiently?",
+    "output": "📅 **Efficient Study Scheduling:**\n- Use a planner to track deadlines.\n- Set fixed study hours daily.\n- Alternate subjects to avoid fatigue.\n- Schedule breaks to refresh your mind."
+  },
+  {
+    "input": "كيف أخطط لجدولي الدراسي بكفاءة؟",
+    "output": "📅 **تنظيم الجدول الدراسي بفعالية:**\n- استخدم مخططًا لمتابعة المواعيد النهائية.\n- خصص ساعات محددة للدراسة يوميًا.\n- قم بالتنويع بين المواد لتجنب الإرهاق.\n- جدولة فواصل للراحة وزيادة التركيز."
+  },
+  {
+    "input": "What is the best time to study?",
+    "output": "⏰ **Best Study Time:**\n- Morning: Best for problem-solving.\n- Afternoon: Good for reading and summarizing.\n- Evening: Ideal for review and memorization."
+  },
+  {
+    "input": "ما هو أفضل وقت للدراسة؟",
+    "output": "⏰ **أفضل أوقات الدراسة:**\n- الصباح: مثالي لحل المسائل المعقدة.\n- الظهيرة: مناسب للقراءة والتلخيص.\n- المساء: الأفضل للمراجعة والحفظ."
+  },
+  {
+    "input": "How do I study effectively with a part-time job?",
+    "output": "🕒 **Study Tips for Working Students:**\n- Set a weekly study plan.\n- Use short but focused sessions.\n- Study during quiet times (early morning or late night).\n- Stay organized to balance work and studies."
+  },
+  {
+    "input": "كيف أدرس بفعالية مع عملي الجزئي؟",
+    "output": "🕒 **نصائح للدراسة مع العمل:**\n- قم بإعداد خطة أسبوعية للدراسة.\n- استخدم جلسات قصيرة ولكن مركزة.\n- استغل الأوقات الهادئة (الصباح الباكر أو الليل).\n- نظم وقتك جيدًا لموازنة العمل والدراسة."
+  },
+  {
+    "input": "How do I stay productive during study sessions?",
+    "output": "📖 **Boost Study Productivity:**\n- Set clear study goals.\n- Use active recall techniques.\n- Avoid multitasking.\n- Take short breaks every hour."
+  },
+  {
+    "input": "كيف أبقى منتجًا أثناء الدراسة؟",
+    "output": "📖 **زيادة الإنتاجية الدراسية:**\n- حدد أهدافًا دراسية واضحة.\n- استخدم تقنيات الاسترجاع النشط.\n- تجنب تعدد المهام.\n- خذ استراحات قصيرة كل ساعة."
+  },
+  {
+    "input": "I have multiple exams in one week. How do I plan my study sessions?",
+    "output": "📚 **Exam Study Plan:**\n- Allocate more time to harder subjects.\n- Space out study sessions.\n- Revise high-priority topics first.\n- Avoid last-minute cramming."
+  },
+  {
+    "input": "لدي عدة امتحانات في أسبوع واحد، كيف أخطط لجلسات دراستي؟",
+    "output": "📚 **خطة الدراسة للامتحانات:**\n- خصص وقتًا أطول للمواد الصعبة.\n- وزّع جلسات المراجعة على أيام مختلفة.\n- ركز على المواضيع ذات الأولوية أولًا.\n- تجنب الدراسة المتأخرة في آخر لحظة."
+  },
+  {
+    "input": "How do I review lectures effectively?",
+    "output": "📖 **Effective Lecture Review:**\n- Summarize key points after each class.\n- Use mind maps to visualize concepts.\n- Discuss topics with classmates.\n- Rewatch recorded lectures if available."
+  },
+  {
+    "input": "كيف أراجع المحاضرات بفعالية؟",
+    "output": "📖 **مراجعة المحاضرات بفعالية:**\n- قم بتلخيص أهم النقاط بعد كل محاضرة.\n- استخدم الخرائط الذهنية لفهم المفاهيم.\n- ناقش المواضيع مع زملائك.\n- أعد مشاهدة المحاضرات المسجلة إن توفرت."
+  },
+{
+    "input": "Analyze my schedule and tell me what to study today.",
+    "output": "📅 **Today's Study Plan:**\n- 📝 Finish your Chemistry assignment (Due today at 8:05 PM).\n- 📖 Review ITCS113 Lecture 5 (Quiz in 2 days).\n- 🔍 Solve 3 past quizzes for ITCS113.\n- ✅ Take a break, then revise notes from last week's Chemistry lab."
+  },
+  {
+    "input": "حلل جدولي الدراسي وأخبرني ماذا أدرس اليوم؟",
+    "output": "📅 **خطة الدراسة لليوم:**\n- 📝 إنهاء واجب الكيمياء (الموعد النهائي اليوم الساعة 8:05 مساءً).\n- 📖 مراجعة محاضرة ITCS113 (لديك اختبار بعد يومين).\n- 🔍 حل 3 نماذج اختبارات سابقة في ITCS113.\n- ✅ خذ استراحة، ثم راجع ملاحظات مختبر الكيمياء الأسبوع الماضي."
+  },
+  {
+    "input": "I have a quiz tomorrow and an assignment due today. How should I manage my time?",
+    "output": "⏳ **Time Management Plan:**\n- 🎯 First, complete the assignment due today (2 hours).\n- 📖 Then, revise key points for the quiz (1.5 hours).\n- 📝 Take short notes and do 2 past quizzes.\n- 🛑 Short break.\n- ✅ Final review before sleeping."
+  },
+  {
+    "input": "لدي اختبار غدًا وواجب مستحق اليوم، كيف أنظم وقتي؟",
+    "output": "⏳ **إدارة الوقت:**\n- 🎯 إنهاء الواجب أولًا (ساعتان).\n- 📖 مراجعة النقاط المهمة للاختبار (ساعة ونصف).\n- 📝 حل 2 من نماذج الاختبارات السابقة.\n- 🛑 استراحة قصيرة.\n- ✅ مراجعة نهائية قبل النوم."
+  },
+  {
+    "input": "Generate a weekly study schedule based on my courses and to-do list.",
+    "output": "📆 **Weekly Study Plan:**\n- **Monday:** Revise Chemistry lecture notes + IT assignment (due Tuesday).\n- **Tuesday:** Study for IT quiz (Thursday) + Chemistry Lab prep.\n- **Wednesday:** Mock quiz attempt + Assignment for Math.\n- **Thursday:** Final revision for IT quiz + review class notes.\n- **Friday:** Work on long-term projects.\n- **Saturday & Sunday:** Free study & personal revision."
+  },
+  {
+    "input": "أنشئ لي جدول دراسي أسبوعي بناءً على مقرراتي الدراسية وقائمة المهام الخاصة بي.",
+    "output": "📆 **خطة الدراسة الأسبوعية:**\n- **الإثنين:** مراجعة محاضرات الكيمياء + إنهاء واجب IT المستحق غدًا.\n- **الثلاثاء:** مراجعة اختبار IT (الخميس) + تحضير مختبر الكيمياء.\n- **الأربعاء:** حل اختبار تجريبي + إنهاء واجب الرياضيات.\n- **الخميس:** مراجعة نهائية لاختبار IT + مراجعة ملاحظات الفصل.\n- **الجمعة:** العمل على المشاريع طويلة المدى.\n- **السبت والأحد:** مراجعة حرة وإعداد شخصي."
+  },
+  {
+    "input": "Which course should I focus on today based on deadlines?",
+    "output": "📌 **Priority Study Order:**\n1️⃣ ITCS113 (Quiz in 1 day, high priority).\n2️⃣ Chemistry (Lab report due in 3 days).\n3️⃣ Review last week's lectures (General reinforcement)."
+  },
+  {
+    "input": "أي مقرر يجب أن أركز عليه اليوم بناءً على المواعيد النهائية؟",
+    "output": "📌 **أولويات الدراسة:**\n1️⃣ ITCS113 (اختبار بعد يوم واحد، أولوية قصوى).\n2️⃣ الكيمياء (تقرير المختبر مستحق بعد 3 أيام).\n3️⃣ مراجعة محاضرات الأسبوع الماضي (تعزيز عام)."
+  },
+  {
+    "input": "I have 3 courses. How do I divide my study time effectively?",
+    "output": "⏳ **Efficient Study Time Division:**\n- 🕒 **Morning:** ITCS113 (due quiz in 2 days).\n- ⏳ **Afternoon:** Chemistry Lab report.\n- 🌙 **Evening:** Reviewing lecture slides for all subjects.\n- 🚀 Prioritize based on urgency."
+  },
+  {
+    "input": "لدي 3 مواد دراسية، كيف أقسم وقتي بفعالية؟",
+    "output": "⏳ **تقسيم وقت الدراسة بفعالية:**\n- 🕒 **الصباح:** ITCS113 (لديك اختبار بعد يومين).\n- ⏳ **الظهيرة:** تقرير مختبر الكيمياء.\n- 🌙 **المساء:** مراجعة شرائح المحاضرات لكل المواد.\n- 🚀 رتب الأولويات حسب الأهمية."
+  },
+  {
+    "input": "I need a study plan for the weekend based on my schedule.",
+    "output": "📆 **Weekend Study Plan:**\n- 📖 Saturday: Review Chemistry (Final in 10 days), start project work.\n- 📚 Sunday: Solve past quizzes for ITCS113, finish any pending assignments."
+  },
+  {
+    "input": "أحتاج خطة دراسية لعطلة نهاية الأسبوع بناءً على جدولي.",
+    "output": "📆 **خطة الدراسة لعطلة نهاية الأسبوع:**\n- 📖 السبت: مراجعة الكيمياء (الاختبار النهائي بعد 10 أيام)، بدء العمل على المشروع.\n- 📚 الأحد: حل اختبارات سابقة لـ ITCS113، إنهاء أي واجبات متبقية."
+  },
+  {
+    "input": "My final exams start in 2 weeks. How should I prepare?",
+    "output": "📌 **Final Exam Prep:**\n- Week 1: Revise all major topics + practice problems.\n- Week 2: Solve past exams + focused revision.\n- Last 3 days: Flashcards, quick review, and rest."
+  },
+  {
+    "input": "امتحاناتي النهائية تبدأ بعد أسبوعين، كيف أستعد؟",
+    "output": "📌 **التحضير للامتحانات النهائية:**\n- الأسبوع الأول: مراجعة جميع الموضوعات الأساسية + حل التمارين.\n- الأسبوع الثاني: حل اختبارات سابقة + مراجعة مركزة.\n- آخر 3 أيام: بطاقات تعليمية، مراجعة سريعة، والراحة."
+  },
+  {
+    "input": "I have a light schedule today, what should I focus on?",
+    "output": "📌 **Light Study Day Plan:**\n- 📚 Read ahead for next week’s lectures.\n- 📝 Work on long-term assignments.\n- 🔍 Practice problem-solving questions."
+  },
+  {
+    "input": "جدولي اليوم خفيف، ماذا أركز عليه؟",
+    "output": "📌 **خطة يوم خفيف:**\n- 📚 قراءة المحاضرات القادمة مسبقًا.\n- 📝 العمل على الواجبات طويلة الأمد.\n- 🔍 حل تمارين إضافية في المواد الصعبة."
+  },
+ {
+    "input": "What should I study today?",
+    "output": "📅 **Today's Study Plan:**\n1️⃣ **8:00 AM - 9:30 AM** → Study Chemistry (Quiz in 2 days)\n2️⃣ **10:00 AM - 11:30 AM** → Complete IT Assignment (Due Today)\n3️⃣ **3:00 PM - 4:30 PM** → Revise ITCS113 Lecture Notes (Upcoming Final Exam)\n4️⃣ **7:00 PM - 8:30 PM** → Solve past quiz questions for ITCS113."
+  },
+  {
+    "input": "ماذا أدرس اليوم؟",
+    "output": "📅 **خطة الدراسة لليوم:**\n1️⃣ **8:00 AM - 9:30 AM** → مراجعة الكيمياء (لديك اختبار بعد يومين)\n2️⃣ **10:00 AM - 11:30 AM** → إنهاء واجب IT (الموعد النهائي اليوم)\n3️⃣ **3:00 PM - 4:30 PM** → مراجعة ملاحظات محاضرات ITCS113 (الاختبار النهائي قريب)\n4️⃣ **7:00 PM - 8:30 PM** → حل نماذج اختبارات سابقة لـ ITCS113."
+  },
+  {
+    "input": "I have an exam in three days, how should I plan my study?",
+    "output": "📌 **3-Day Study Plan:**\n📅 **Day 1:**\n1️⃣ **9:00 AM - 11:00 AM** → Revise core topics from lectures.\n2️⃣ **2:00 PM - 4:00 PM** → Solve past exam questions.\n3️⃣ **7:00 PM - 9:00 PM** → Summarize key points and flashcards.\n\n📅 **Day 2:**\n1️⃣ **8:00 AM - 10:00 AM** → Review mistakes from practice tests.\n2️⃣ **1:00 PM - 3:00 PM** → Group study session or Q&A review.\n3️⃣ **6:00 PM - 8:00 PM** → Memorize formulas and concepts.\n\n📅 **Day 3 (Exam Day):**\n1️⃣ **7:00 AM - 8:30 AM** → Quick review of notes.\n2️⃣ **9:00 AM - 10:00 AM** → Rest and relax before the exam."
+  },
+  {
+    "input": "لدي اختبار بعد ثلاثة أيام، كيف أخطط لدراستي؟",
+    "output": "📌 **خطة الدراسة لـ 3 أيام:**\n📅 **اليوم الأول:**\n1️⃣ **9:00 AM - 11:00 AM** → مراجعة المواضيع الأساسية من المحاضرات.\n2️⃣ **2:00 PM - 4:00 PM** → حل أسئلة من اختبارات سابقة.\n3️⃣ **7:00 PM - 9:00 PM** → تلخيص النقاط المهمة واستخدام البطاقات التعليمية.\n\n📅 **اليوم الثاني:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة الأخطاء من الاختبارات السابقة.\n2️⃣ **1:00 PM - 3:00 PM** → جلسة دراسة جماعية أو مراجعة Q&A.\n3️⃣ **6:00 PM - 8:00 PM** → حفظ القوانين والمفاهيم الأساسية.\n\n📅 **اليوم الثالث (يوم الاختبار):**\n1️⃣ **7:00 AM - 8:30 AM** → مراجعة سريعة للملاحظات.\n2️⃣ **9:00 AM - 10:00 AM** → استراحة والاستعداد النفسي قبل الاختبار."
+  },
+  {
+    "input": "How should I plan my studies for the weekend?",
+    "output": "📆 **Weekend Study Plan:**\n📅 **Saturday:**\n1️⃣ **9:00 AM - 10:30 AM** → Chemistry: Review lecture notes.\n2️⃣ **12:00 PM - 2:00 PM** → ITCS113: Solve past exam papers.\n3️⃣ **4:00 PM - 5:30 PM** → Work on long-term project.\n\n📅 **Sunday:**\n1️⃣ **9:00 AM - 11:00 AM** → Revise IT quiz topics (Quiz next week).\n2️⃣ **1:00 PM - 3:00 PM** → Chemistry practice problems.\n3️⃣ **6:00 PM - 7:30 PM** → Light revision and flashcards."
+  },
+  {
+    "input": "كيف أخطط لدراستي في عطلة نهاية الأسبوع؟",
+    "output": "📆 **خطة الدراسة لعطلة نهاية الأسبوع:**\n📅 **السبت:**\n1️⃣ **9:00 AM - 10:30 AM** → الكيمياء: مراجعة ملاحظات المحاضرات.\n2️⃣ **12:00 PM - 2:00 PM** → ITCS113: حل نماذج اختبارات سابقة.\n3️⃣ **4:00 PM - 5:30 PM** → العمل على مشروع طويل الأمد.\n\n📅 **الأحد:**\n1️⃣ **9:00 AM - 11:00 AM** → مراجعة مواضيع اختبار IT (الاختبار الأسبوع القادم).\n2️⃣ **1:00 PM - 3:00 PM** → حل مسائل الكيمياء.\n3️⃣ **6:00 PM - 7:30 PM** → مراجعة خفيفة واستخدام البطاقات التعليمية."
+  },
+  {
+    "input": "I have free time today, what should I do?",
+    "output": "📅 **Suggested Study Plan for a Free Day:**\n1️⃣ **9:00 AM - 10:30 AM** → Revise past lectures.\n2️⃣ **12:00 PM - 1:30 PM** → Work on future assignments.\n3️⃣ **3:00 PM - 4:30 PM** → Solve past quizzes and tests.\n4️⃣ **7:00 PM - 8:30 PM** → Light review and relaxation."
+  },
+  {
+    "input": "لدي وقت فراغ اليوم، ماذا أفعل؟",
+    "output": "📅 **خطة الدراسة لليوم الفارغ:**\n1️⃣ **9:00 AM - 10:30 AM** → مراجعة المحاضرات السابقة.\n2️⃣ **12:00 PM - 1:30 PM** → العمل على الواجبات المستقبلية.\n3️⃣ **3:00 PM - 4:30 PM** → حل اختبارات سابقة.\n4️⃣ **7:00 PM - 8:30 PM** → مراجعة خفيفة والاسترخاء."
+  },
+
+  {
+    "input": "I have two assignments due tomorrow, how should I manage my time?",
+    "output": "📌 **Urgent Study Plan:**\n1️⃣ **8:00 AM - 10:00 AM** → Complete first assignment (highest priority).\n2️⃣ **11:00 AM - 1:00 PM** → Work on second assignment.\n3️⃣ **3:00 PM - 4:30 PM** → Take a break and review both assignments.\n4️⃣ **7:00 PM - 9:00 PM** → Finalize both assignments and submit."
+  },
+  {
+    "input": "لدي اختبار عملي غدًا، كيف أستعد؟",
+    "output": "📌 **خطة التحضير للاختبار العملي:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة جميع القوانين والمهارات العملية.\n2️⃣ **1:00 PM - 3:00 PM** → حل أسئلة وتطبيقات عملية.\n3️⃣ **5:00 PM - 7:00 PM** → محاكاة تجربة الاختبار العملي.\n4️⃣ **9:00 PM - 10:00 PM** → مراجعة نهائية واستراحة قبل النوم."
+  },
+  {
+    "input": "I have an online exam in 4 days, how do I prepare?",
+    "output": "📖 **4-Day Online Exam Study Plan:**\n📅 **Day 1:**\n1️⃣ **9:00 AM - 11:00 AM** → Revise core concepts from class notes.\n2️⃣ **1:00 PM - 3:00 PM** → Practice multiple-choice questions.\n\n📅 **Day 2:**\n1️⃣ **10:00 AM - 12:00 PM** → Review weak topics.\n2️⃣ **2:00 PM - 4:00 PM** → Solve past online exams.\n\n📅 **Day 3:**\n1️⃣ **9:00 AM - 11:00 AM** → Summarize key notes.\n2️⃣ **3:00 PM - 5:00 PM** → Group discussion or online review session.\n\n📅 **Day 4 (Exam Day):**\n1️⃣ **7:00 AM - 8:00 AM** → Quick last-minute review.\n2️⃣ **9:00 AM - 10:00 AM** → Stay calm and start the exam."
+  },
+  {
+    "input": "كيف أدرس لمادة الرياضيات بفعالية؟",
+    "output": "📖 **خطة الدراسة لمادة الرياضيات:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة النظريات والقوانين الأساسية.\n2️⃣ **12:00 PM - 2:00 PM** → حل مسائل تطبيقية من الامتحانات السابقة.\n3️⃣ **4:00 PM - 6:00 PM** → مراجعة الأخطاء والتأكد من الفهم الصحيح.\n4️⃣ **8:00 PM - 9:30 PM** → تدريب على أسئلة متوقعة للامتحان."
+  },
+  {
+    "input": "What should I do if I have a quiz and a lab report due on the same day?",
+    "output": "📌 **Balanced Study Plan:**\n1️⃣ **8:00 AM - 10:00 AM** → Review key concepts for the quiz.\n2️⃣ **11:00 AM - 1:00 PM** → Draft the lab report structure.\n3️⃣ **3:00 PM - 5:00 PM** → Revise quiz materials and practice questions.\n4️⃣ **7:00 PM - 9:00 PM** → Finalize lab report and submit."
+  },
+  {
+    "input": "لدي وقت فراغ يوم الجمعة، كيف أستغله في الدراسة؟",
+    "output": "📆 **خطة الدراسة ليوم الجمعة:**\n1️⃣ **9:00 AM - 11:00 AM** → مراجعة المحاضرات السابقة.\n2️⃣ **2:00 PM - 3:30 PM** → حل أسئلة من اختبارات سابقة.\n3️⃣ **5:00 PM - 6:30 PM** → التحضير للاختبارات القادمة.\n4️⃣ **8:00 PM - 9:30 PM** → مراجعة ملاحظات الأسبوع وتلخيص النقاط المهمة."
+  },
+  {
+    "input": "I need to prepare for multiple exams in one week, how do I organize my study plan?",
+    "output": "📆 **Multi-Exam Study Plan:**\n📅 **Monday:**\n1️⃣ **9:00 AM - 11:00 AM** → Revise subject A.\n2️⃣ **1:00 PM - 3:00 PM** → Solve past papers for subject B.\n\n📅 **Tuesday:**\n1️⃣ **10:00 AM - 12:00 PM** → Summarize key topics for subject C.\n2️⃣ **4:00 PM - 6:00 PM** → Group study for subject A.\n\n📅 **Wednesday:**\n1️⃣ **9:00 AM - 11:00 AM** → Revise weak areas from subject B.\n2️⃣ **3:00 PM - 5:00 PM** → Practice numerical problems for subject C.\n\n📅 **Thursday:**\n1️⃣ **10:00 AM - 12:00 PM** → Mock test for subject A.\n2️⃣ **2:00 PM - 4:00 PM** → Flashcards and quick recall.\n\n📅 **Friday:**\n1️⃣ **7:00 AM - 8:30 AM** → Final revision before first exam."
+  },
+  {
+    "input": "كيف أستعد للامتحانات النهائية بفعالية؟",
+    "output": "📌 **خطة مراجعة الامتحانات النهائية:**\n📅 **أسبوع قبل الامتحان:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة شاملة للمنهج.\n2️⃣ **2:00 PM - 4:00 PM** → حل أسئلة من الاختبارات السابقة.\n\n📅 **3 أيام قبل الامتحان:**\n1️⃣ **9:00 AM - 11:00 AM** → التركيز على النقاط الصعبة.\n2️⃣ **3:00 PM - 5:00 PM** → تدريب على أسئلة مقالية واختيارية.\n\n📅 **اليوم الأخير:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة سريعة للملاحظات والبطاقات التعليمية.\n2️⃣ **7:00 PM - 8:30 PM** → استرخاء وضبط النوم الجيد قبل الامتحان."
+  },
+  
+  {
+    "input": "What should I study today?",
+    "output": "📅 **Today's Study Plan:**\n1️⃣ **8:00 AM - 9:30 AM** → Review Chapter 6 in Chemistry (Quiz Tomorrow).\n2️⃣ **10:00 AM - 11:30 AM** → Complete ITCS113 Assignment (Due Today).\n3️⃣ **3:00 PM - 4:30 PM** → Revise ITCS113 Lecture Notes (Final Exam Approaching).\n4️⃣ **7:00 PM - 8:30 PM** → Solve past quiz questions for ITCS113."
+  },
+  {
+    "input": "ماذا أدرس اليوم؟",
+    "output": "📅 **خطة الدراسة لليوم:**\n1️⃣ **8:00 AM - 9:30 AM** → مراجعة الفصل 6 في الكيمياء (الاختبار غدًا).\n2️⃣ **10:00 AM - 11:30 AM** → إنهاء واجب ITCS113 (الموعد النهائي اليوم).\n3️⃣ **3:00 PM - 4:30 PM** → مراجعة ملاحظات محاضرات ITCS113 (الاختبار النهائي قريب).\n4️⃣ **7:00 PM - 8:30 PM** → حل نماذج اختبارات سابقة لـ ITCS113."
+  },
+  {
+    "input": "How should I organize my time today?",
+    "output": "⏳ **Time Management Plan for Today:**\n1️⃣ **9:00 AM - 10:30 AM** → Revise Chemistry lecture notes.\n2️⃣ **11:00 AM - 12:30 PM** → Solve Mathematics exercises (Exam Next Week).\n3️⃣ **2:00 PM - 3:30 PM** → Work on Lab Report (Due in 2 Days).\n4️⃣ **6:00 PM - 7:30 PM** → Read the next chapter of ITCS113."
+  },
+  {
+    "input": "كيف أنظم وقتي اليوم؟",
+    "output": "⏳ **جدول الدراسة لليوم:**\n1️⃣ **9:00 AM - 10:30 AM** → مراجعة ملاحظات محاضرة الكيمياء.\n2️⃣ **11:00 AM - 12:30 PM** → حل تمارين في مادة الرياضيات (اختبار الأسبوع القادم).\n3️⃣ **2:00 PM - 3:30 PM** → العمل على تقرير المختبر (موعد التسليم بعد يومين).\n4️⃣ **6:00 PM - 7:30 PM** → قراءة الفصل الجديد لمادة ITCS113."
+  },
+  {
+    "input": "I have a quiz in 2 days, how should I study?",
+    "output": "📌 **2-Day Quiz Study Plan:**\n📅 **Day 1:**\n1️⃣ **8:00 AM - 10:00 AM** → Review key concepts and formulas.\n2️⃣ **2:00 PM - 4:00 PM** → Solve past quiz questions.\n\n📅 **Day 2:**\n1️⃣ **9:00 AM - 11:00 AM** → Revise mistakes from practice tests.\n2️⃣ **3:00 PM - 5:00 PM** → Summarize notes and use flashcards.\n3️⃣ **7:00 PM - 8:30 PM** → Final quick review before the quiz."
+  },
+  {
+    "input": "لدي اختبار بعد يومين، كيف أدرس؟",
+    "output": "📌 **خطة دراسة لاختبار بعد يومين:**\n📅 **اليوم الأول:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة المفاهيم الأساسية والقوانين.\n2️⃣ **2:00 PM - 4:00 PM** → حل أسئلة من اختبارات سابقة.\n\n📅 **اليوم الثاني:**\n1️⃣ **9:00 AM - 11:00 AM** → مراجعة الأخطاء من الاختبارات السابقة.\n2️⃣ **3:00 PM - 5:00 PM** → تلخيص الملاحظات واستخدام البطاقات التعليمية.\n3️⃣ **7:00 PM - 8:30 PM** → مراجعة سريعة قبل الاختبار."
+  },
+  {
+    "input": "How should I study for multiple exams next week?",
+    "output": "📌 **Multi-Exam Study Plan:**\n📅 **Monday:**\n1️⃣ **8:00 AM - 10:00 AM** → Review Chemistry concepts (Exam in 5 days).\n2️⃣ **1:00 PM - 3:00 PM** → Solve Mathematics problems (Exam in 4 days).\n\n📅 **Tuesday:**\n1️⃣ **9:00 AM - 11:00 AM** → Practice ITCS113 coding exercises.\n2️⃣ **2:00 PM - 4:00 PM** → Summarize lecture notes for Physics.\n\n📅 **Wednesday:**\n1️⃣ **10:00 AM - 12:00 PM** → Solve past Chemistry exams.\n2️⃣ **4:00 PM - 6:00 PM** → Review difficult topics in Mathematics."
+  },
+  {
+    "input": "كيف أدرس لاختبارات متعددة الأسبوع القادم؟",
+    "output": "📌 **خطة الدراسة للاختبارات المتعددة:**\n📅 **الإثنين:**\n1️⃣ **8:00 AM - 10:00 AM** → مراجعة مفاهيم الكيمياء (الاختبار بعد 5 أيام).\n2️⃣ **1:00 PM - 3:00 PM** → حل مسائل الرياضيات (الاختبار بعد 4 أيام).\n\n📅 **الثلاثاء:**\n1️⃣ **9:00 AM - 11:00 AM** → التدريب على تمارين البرمجة لـ ITCS113.\n2️⃣ **2:00 PM - 4:00 PM** → تلخيص ملاحظات الفيزياء.\n\n📅 **الأربعاء:**\n1️⃣ **10:00 AM - 12:00 PM** → حل اختبارات سابقة في الكيمياء.\n2️⃣ **4:00 PM - 6:00 PM** → مراجعة المواضيع الصعبة في الرياضيات."
+  },
+  {
+    "input": "I have free time today, what should I study?",
+    "output": "📌 **Study Plan for a Free Day:**\n1️⃣ **9:00 AM - 10:30 AM** → Revise past lectures.\n2️⃣ **12:00 PM - 1:30 PM** → Work on future assignments.\n3️⃣ **3:00 PM - 4:30 PM** → Solve past quizzes and tests.\n4️⃣ **7:00 PM - 8:30 PM** → Light revision and relaxation."
+  },
+  {
+    "input": "لدي وقت فراغ اليوم، ماذا أدرس؟",
+    "output": "📌 **خطة الدراسة لليوم الفارغ:**\n1️⃣ **9:00 AM - 10:30 AM** → مراجعة المحاضرات السابقة.\n2️⃣ **12:00 PM - 1:30 PM** → العمل على الواجبات المستقبلية.\n3️⃣ **3:00 PM - 4:30 PM** → حل اختبارات سابقة.\n4️⃣ **7:00 PM - 8:30 PM** → مراجعة خفيفة والاسترخاء."
+  }
+
+
+]
